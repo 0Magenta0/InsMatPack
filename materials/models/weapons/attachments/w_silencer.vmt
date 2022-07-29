@@ -1,6 +1,6 @@
 UnlitGeneric
 {
-$color "{ 255 0 253 }"
+$color "{ 255 0 255 }"
 $alpha  0.1
 $ignorez  1
 $nofog  1

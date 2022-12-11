@@ -34,5 +34,5 @@ If you don't have a `custom` directory, just create it.
 
 ### License
 This project uses GPLv3 License.  
-Copyright 2022 \_Magenta\_
+Copyright 2022 0Magenta0
 
